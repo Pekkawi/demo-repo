@@ -8,6 +8,7 @@ fourth upd test
 ## Subheader
 
     Watch tutorial on YouTube.
-    
-## LOCAL DEVELOPMENT
-1. OPEN index.html in your browser
+
+## ok so it's time to change
+yes today we want to change the legislation of the 
+Bolivian government
